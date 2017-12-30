@@ -5,9 +5,10 @@ class App extends React.Component {
   render(){
     return (
       <div>
-        <p>This is my new website</p>
+        <p>This is my new website I will build overtime.</p>
         <ul>
-          <AnchorTagListItem link="https://www.google.com" text="Google" />
+          <AnchorTagListItem link="mailto:jacobestovall@gmail.com" text="Email Me." />
+          <AnchorTagListItem link="mailto:jacobestovall@gmail.com" text="Look at LinkedIn." />
         </ul>
       </div>
     );

@@ -1,8 +1,16 @@
 import React from 'react';
+import AnchorTagListItem from './AnchorTagListItem'
 
 class App extends React.Component {
   render(){
-    return <p>This is my new website</p>
+    return (
+      <div>
+        <p>This is my new website</p>
+        <ul>
+          <AnchorTagListItem link="https://www.google.com" text="Google" />
+        </ul>
+      </div>
+    );
   }
 }
 

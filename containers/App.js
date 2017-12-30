@@ -8,7 +8,7 @@ class App extends React.Component {
         <p>This is my new website I will build overtime.</p>
         <ul>
           <AnchorTagListItem link="mailto:jacobestovall@gmail.com" text="Email Me." />
-          <AnchorTagListItem link="mailto:jacobestovall@gmail.com" text="Look at LinkedIn." />
+          <AnchorTagListItem link="https://www.linkedin.com/in/jacob-stovall-14b2a093" text="Look at LinkedIn." />
         </ul>
       </div>
     );

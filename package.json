@@ -19,8 +19,12 @@
   },
   "homepage": "https://github.com/JacobEmmersonStovall/JacobStovallWebsite2018#readme",
   "dependencies": {
+    "css-loader": "^0.28.7",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "style-loader": "^0.19.1",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
   },

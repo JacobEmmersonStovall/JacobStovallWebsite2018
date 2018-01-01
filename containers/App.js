@@ -1,10 +1,11 @@
 import React from 'react';
-import AnchorTagListItem from './AnchorTagListItem'
+import AnchorTagListItem from './AnchorTagListItem';
+import '../styles/app.less';
 
 class App extends React.Component {
   render(){
     return (
-      <div>
+      <div className="appDiv">
         <p>This is my new website I will build overtime.</p>
         <ul>
           <AnchorTagListItem link="mailto:jacobestovall@gmail.com" text="Email Me." />

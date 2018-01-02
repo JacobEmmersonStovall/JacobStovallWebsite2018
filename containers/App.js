@@ -7,7 +7,7 @@ class App extends React.Component {
   render(){
     return (
       <div className="appDiv">
-        <img src="../images/Jacob_Vector.png" />
+        <img src="./images/Jacob_Vector.png" />
         <p>Software Developer. Improv Person. Just a Guy.</p>
         <ul>
           <AnchorTagListItem link="mailto:jacobestovall@gmail.com" text="Email Me." />

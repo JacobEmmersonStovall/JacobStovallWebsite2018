@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/JacobStovallWebsite2018/precache-manifest.6dd4f9689437f8496a2dbc6c1444eef7.js"
+  "/JacobStovallWebsite2018/precache-manifest.27a7beaac93c5eadaee5bc4afabd82df.js"
 );
 
 workbox.clientsClaim();

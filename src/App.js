@@ -1,7 +1,7 @@
 import React from 'react';
 import AnchorTagListItem from './AnchorTagListItem';
-import '../styles/general.less';
-import '../styles/app.less';
+import './general.css';
+import './app.css';
 
 class App extends React.Component {
   render(){
